@@ -1,0 +1,5 @@
+﻿  Dijkstra.cpp
+  floyd.cpp
+  正在生成代码...
+floyd.obj : error LNK2005: _main 已经在 Dijkstra.obj 中定义
+D:\大二下册\算法设计\第二次作业\homework2\Debug\homework2.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
